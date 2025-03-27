@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_APIProbeMatrix**  
+**Description:**  
+Scans multiple HTTP endpoints and logs response time and availability in a matrix format.
+
+#### **README.md**
+```markdown
+# APIProbeMatrix - Multi-Endpoint Status Checker
+
+APIProbeMatrix checks API health by logging HTTP status and latency across a list of services.
+
+## Features
+- Pings several endpoints at once  
+- Records response time and status  
+- Optional JSON or CSV report  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_APIProbeMatrix.git
+cd 21_APIProbeMatrix
+python monitor.py
