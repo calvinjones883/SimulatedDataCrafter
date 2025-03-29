@@ -1,0 +1,23 @@
+
+---
+
+### **4. 21_LiveTelemetryPlot**  
+**Description:**  
+A real-time plotting tool that displays incoming numeric data as a scrolling line chart.
+
+#### **README.md**
+```markdown
+# LiveTelemetryPlot - Real-Time Chart Tool
+
+LiveTelemetryPlot is great for streaming metrics, sensor values, and dashboard-style visual feedback.
+
+## Features
+- Scrollable real-time graph  
+- Configurable refresh rate  
+- Lightweight and responsive  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LiveTelemetryPlot.git
+cd 21_LiveTelemetryPlot
+python visualize.py
