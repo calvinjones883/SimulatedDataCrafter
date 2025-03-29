@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogInsightEngine**  
+**Description:**  
+Parses logs and visualizes the most frequent lines, errors, and key patterns.
+
+#### **README.md**
+```markdown
+# LogInsightEngine - Log Frequency & Anomaly Parser
+
+LogInsightEngine helps analyze system or app logs by extracting the most common lines and unusual spikes.
+
+## Features
+- Frequency and keyword filters  
+- CLI interface  
+- Works with rotated logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogInsightEngine.git
+cd 21_LogInsightEngine
+python analyze.py /var/log/mylog.log
